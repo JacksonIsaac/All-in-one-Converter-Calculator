@@ -1,0 +1,15 @@
+a {
+	text-decoration: none;
+	font-family: cursive;
+	color: black;
+}
+
+a:hover {
+	color: #DF7401;
+	font-size: 25px;
+	margin-top: 2cm;
+}
+
+a:active {  
+	color: #FFFFFF;
+}
