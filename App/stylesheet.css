@@ -1,0 +1,31 @@
+/* Put your custom CSS here */
+#footer {
+	position:fixed;
+	bottom:0px;
+	width:95%;
+	/*height:25px; */
+	margin-bottom: 10px;
+} 
+
+#container {
+	color: #336699;
+}
+
+a {
+	text-decoration: none;
+	font-family: cursive;
+	color: white;
+}
+
+a:hover {
+	color: #DF7401;
+	font-size: 25px;
+}
+
+a:active {  
+	color: #FFFFFF;
+}
+
+.margin {
+	margin-top: 1cm;
+}

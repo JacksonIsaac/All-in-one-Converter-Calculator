@@ -1,0 +1,15 @@
+{
+  "name": "All in one Calculator",
+  "description": "All in one Calculator",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/a1con.png"
+  },
+  "developer": {
+    "name": "Jackson Isaac",
+    "url": "http://www.jacksonisaac.wordpress.com"
+  },
+  "default_locale": "en"
+}
+
+
